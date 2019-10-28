@@ -1,8 +1,5 @@
 # NaiveBayes
 
-Modelo de prediccion "NaiveBayes" aplicado a prediccion de cardiopatias.
-
-## Python
+Modelo de predicción "NaiveBayes" aplicado a predicción de cardiopatias.
 
 
-## Jupyter 
